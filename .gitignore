@@ -1,0 +1,14 @@
+# Java
+*.class
+*.log
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# ENV files
+.env
